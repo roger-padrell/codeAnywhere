@@ -1,0 +1,34 @@
+code{
+    display: block;
+    background-color: black;
+    border-radius: 25px;
+    min-width: 50px;
+    min-height: 100px;
+    width: min-content;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+code bar{
+    display: block;
+    padding: 10px;
+    min-width: 60px;
+    border-radius: 25px 25px 0 0;
+    background-color: rgb(75, 75, 75);
+    width: 100%;
+    margin-left: -10px;
+}
+
+code button{
+    margin: 10px;
+}
+
+code content{
+    color: white;
+    margin: 10px;
+}
+
+code console{
+    margin: 10px;
+    color: white;
+}
